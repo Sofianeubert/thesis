@@ -8,6 +8,7 @@
 - Webbasierte Musikvisualisierung in VR – Möglichkeiten und Grenzen
 - Technologische Herausforderungen und Lösungen bei webbasierter Echtzeit-Musikvisualisierung in VR
 - Potenziale von Musikvisualisierung beim Lernen von Instrumenten - Entwicklung eines webbasierten Prototyps
+- Die Rolle der visuellen Darstellung musikalischer Parameter auf das emotionale Spielerlebnis
 
 ## Mögliche Forschungsfragen
 
