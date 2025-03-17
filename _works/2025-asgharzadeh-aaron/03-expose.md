@@ -4,7 +4,7 @@
 
 ## Problemfeld
 
-Die webbasierte Visualisierung von Musik, insbesondere in Virtual Reality, ist bisher wenig erforscht. Dabei könnten kreative und pädagogische Anwendungsbereiche Potenziale bieten.
+Die webbasierte Visualisierung von Musik, insbesondere in Virtual Reality, ist bisher wenig erforscht. Dabei könnten kreative und pädagogische Anwendungsbereiche interessante Potenziale bieten.
 Eine wesentliche Herausforderung eines solchen Projektes ist die Integration verschiedener Webtechnologien, die nicht primär für die gemeinsame Nutzung entwickelt wurden.
 Hier wird besonders Bezug auf die Technologien Web MIDI API, Web Audio API und WebXR Device API genommen, wobei letztere zum Zeitpunkt dieser Arbeit noch als experimentell gilt.
 Die zentrale Problemstellung dieser Arbeit besteht darin, die technologischen Hürden und den damit verbundenen (Zeit-)Aufwand bei der Entwicklung eines solchen Systems zu untersuchen.
