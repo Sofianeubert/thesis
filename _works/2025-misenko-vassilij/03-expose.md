@@ -19,7 +19,7 @@ Folgende weitere Fragen helfen bei der Beantwortung der zentralen Frage:
 - Falls eine Übertragung nicht direkt möglich ist, welche Elemente wären dennoch wünschenswert?
 
 ### Zielsetzung und Aufgabe
-Das Ziel dieser Arbeit ist es, die typografischen Prinzipien in den Werken von Saul Bass zu analysieren und ihre Übertragbarkeit auf das Web zu untersuchen. Dies geschieht durch die Herausarbeitung der Unterschiede und Gemeinsamkeiten zwischen animierter Filmtypografie in Titelsequenzen und Webtypografie. Darüber hinaus sollen geeignete Anwendungsbereiche identifiziert werden, in denen diese Prinzipien im Web gezielt eingesetzt werden können. Abschließend wird ein Prototyp entwickelt, um die visuelle Wirkung dieser Prinzipien im Web praktisch zu demonstrieren.
+Das Ziel dieser Arbeit ist es, die typografischen Prinzipien in den Werken von Saul Bass zu analysieren und ihre Übertragbarkeit auf das Web zu untersuchen. Dies geschieht durch die Herausarbeitung der Unterschiede und Gemeinsamkeiten zwischen animierter Filmtypografie von Saul Bass Werken in Titelsequenzen und Webtypografie. Abschließend wird ein Prototyp entwickelt, um die visuelle Wirkung dieser Prinzipien im Web praktisch zu demonstrieren.
 
 ### Methodik und Vorgehensweise
 Die Arbeit gliedert sich in drei Hauptphasen:
